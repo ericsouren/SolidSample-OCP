@@ -1,0 +1,6 @@
+﻿/* Valid Life Policy */
+{
+  "type": "Life",
+  "dateOfBirth": "1970-05-10",
+  "amount": "1000000"
+}
